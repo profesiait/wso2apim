@@ -31,3 +31,6 @@ Key Features
 * Support for Creating Multi-tenanted APIs
 * Publishing and Governing API Use
 * Monitor API Usage and Performance
+
+GIT repository:https://github.com/wso2/product-apim
+Dwonload 3.2.0 Version: https://github.com/wso2/product-apim/releases/tag/v3.2.0
