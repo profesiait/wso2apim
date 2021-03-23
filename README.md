@@ -18,16 +18,16 @@ To learn more about WSO2 API Manager please visit http://wso2.com/products/api-m
 
 Key Features
 
-Design and Prototype APIs
-Create a Developer Portal of All the Available APIs
-Publishing and Governing API use
-Control Access and Enforce Security
-Route API Traffic
-Manage Developer Community
-Govern Complete API Lifecycle
-Monitor API Usage and Performance
-Pluggable, Extensible, and Themeable
-Easily Deployable in Enterprise Settings
-Support for Creating Multi-tenanted APIs
-Publishing and Governing API Use
-Monitor API Usage and Performance
+* Design and Prototype APIs
+* Create a Developer Portal of All the Available APIs
+* Publishing and Governing API use
+* Control Access and Enforce Security
+* Route API Traffic
+* Manage Developer Community
+* Govern Complete API Lifecycle
+* Monitor API Usage and Performance
+* Pluggable, Extensible, and Themeable
+* Easily Deployable in Enterprise Settings
+* Support for Creating Multi-tenanted APIs
+* Publishing and Governing API Use
+* Monitor API Usage and Performance
