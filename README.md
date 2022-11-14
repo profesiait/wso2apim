@@ -1,4 +1,4 @@
-# wso2apim
+# WSO2 API MANAGER
 WSO2 APIM openSource references
 
 WSO2 API Manager (WSO2 API-M) is a powerful platform for creating, managing, consuming, and monitoring web APIs. It combines tried and tested SOA best practices with modern day API management principles to solve a wide range of enterprise challenges associated with API provisioning, governance, and integration.
@@ -32,6 +32,6 @@ Key Features
 * Publishing and Governing API Use
 * Monitor API Usage and Performance
 
-GIT repository:https://github.com/wso2/product-apim
-
-Download 3.2.0 Version: https://github.com/wso2/product-apim/releases/tag/v3.2.0
+Find out more: https://wso2.com/api-manager/ <br>
+GIT repository:https://github.com/wso2/product-apim <br>
+Download latest Version: https://github.com/wso2/product-apim/releases/latest <br>
