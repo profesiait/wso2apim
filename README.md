@@ -15,7 +15,7 @@ The API publisher module allows API publishers to easily define APIs and manage 
 
 WSO2 API Manager is based on the revolutionary WSO2 Carbon [Middleware a' la carte] framework. All the major features have been developed as reusable Carbon components.
 
-Key Features:
+<strong>Key Features:</strong>
 
 * Design and Prototype APIs
 * Create a Developer Portal of All the Available APIs
@@ -32,5 +32,5 @@ Key Features:
 * Monitor API Usage and Performance
 
 Find out more: https://wso2.com/api-manager/ <br>
-GIT repository:https://github.com/wso2/product-apim <br>
+GIT repository: https://github.com/wso2/product-apim <br>
 Download latest Version: https://github.com/wso2/product-apim/releases/latest <br>
