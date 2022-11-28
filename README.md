@@ -31,6 +31,10 @@ WSO2 API Manager is based on the revolutionary WSO2 Carbon [Middleware a' la car
 * Publishing and Governing API Use
 * Monitor API Usage and Performance
 
+<strong>ROAD MAP:</strong>
+* MODI compliant (mailstone 01/2023)
+* PDND compliant (mailstone 01/2023)
+
 Find out more: https://wso2.com/api-manager/ <br>
 GIT repository: https://github.com/wso2/product-apim <br>
 Download latest Version: https://github.com/wso2/product-apim/releases/latest <br>
